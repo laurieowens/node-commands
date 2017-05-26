@@ -1,0 +1,2 @@
+```npm list -g --depth=0```
+find out what packages you installed globally
